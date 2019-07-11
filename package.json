@@ -1,0 +1,14 @@
+{
+  "name": "touraloo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcelofpalves/touraloo.git",
+  "author": "Marcelo Alves <alves@libra.co.jp>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
